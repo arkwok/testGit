@@ -5,3 +5,9 @@
 body{
     font-size: 14px;
 }
+div{
+    width: 400px;
+    height: 400px;
+    background: red;
+    color: #fff;
+}
